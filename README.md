@@ -62,5 +62,5 @@
 ### 📫 Контакты для связи
 
 - 📧 **Email:** [mdiris@vk.com](mailto:mdiris@vk.com)
-- 💬 **Telegram:** [@dennchikus](https://t.me/dennchikus) *(или укажи актуальный ник)*
+- 💬 **Telegram:** [@dennchikus](https://t.me/dennchikus)
 - 🌐 **Портфолио в проде:** [wraptoon.ru](https://wraptoon.ru)
