@@ -44,9 +44,10 @@
 
 ---
 
-#### 🏨 [Hotel Booking Service](https://github.com/dennchikus/backendCourse)
-* **Назначение:** Сервис бронирования отелей и номеров с фильтрацией по датам и ценам, ролевой моделью пользователей и JWT-авторизацией.
-* **Стек:** `Python`, `FastAPI`, `SQLAlchemy (Async)`, `PostgreSQL`, `Alembic`, `Docker`.
+#### 🏨 Hotel Booking API `[🚧 В активной разработке]`
+* **Назначение:** Комплексный REST API сервис бронирования отелей и номеров с динамической фильтрацией по датам и ценам, ролевой моделью пользователей и JWT-аутентификацией.
+* **Ключевой стек:** `Python 3.11+`, `FastAPI`, `SQLAlchemy 2.0 (Async)`, `PostgreSQL`, `Alembic`, `Docker`.
+* *Исходный код будет опубликован в открытом доступе после завершения интеграции модулей фоновых задач и кэширования.*
 
 ---
 
@@ -63,4 +64,4 @@
 
 - 📧 **Email:** [mdiris@vk.com](mailto:mdiris@vk.com)
 - 💬 **Telegram:** [@dennchikus](https://t.me/dennchikus)
-- 🌐 **Портфолио в проде:** [wraptoon.ru](https://wraptoon.ru)
+- 🌐 **Production Live Demo:** [wraptoon.ru](https://wraptoon.ru)
